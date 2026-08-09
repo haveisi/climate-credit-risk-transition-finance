@@ -1,5 +1,9 @@
 # Climate Credit Risk & Transition Finance Analytics
 
+
+<img width="1598" height="984" alt="image" src="https://github.com/user-attachments/assets/4b898160-f7bd-4b85-830f-5a4f62e6b75d" />
+
+
 ## Overview
 
 This project examines a practical banking question:
