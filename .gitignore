@@ -1,0 +1,30 @@
+# Virtual environment
+venv_library/
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary Excel files
+~$*.xlsx
+
+# Logs
+*.log

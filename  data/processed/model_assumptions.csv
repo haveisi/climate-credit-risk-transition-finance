@@ -1,0 +1,4 @@
+assumption,value,unit,comment
+Cash tax rate on EBITDA,0.15,%,Simplified training assumption.
+PD cap,0.2,%,Prevents heuristic PD from exceeding 20% in this exercise.
+LGD cap,0.8,%,Simplified cap for stressed LGD.

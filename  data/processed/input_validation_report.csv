@@ -1,0 +1,29 @@
+check_name,severity,failures,status
+Scenario table contains 3 scenarios,ERROR,0,PASS
+Scenario names are unique,ERROR,0,PASS
+Scenario table has no missing values,ERROR,0,PASS
+Price impact not below -100%,ERROR,0,PASS
+Volume impact not below -100%,ERROR,0,PASS
+Additional OPEX non-negative,ERROR,0,PASS
+Carbon price non-negative,ERROR,0,PASS
+Transition CAPEX non-negative,ERROR,0,PASS
+Borrower table contains 3 borrowers,ERROR,0,PASS
+Borrower names are unique,ERROR,0,PASS
+Borrower table has no missing values,ERROR,0,PASS
+Revenue is positive,ERROR,0,PASS
+EBITDA is positive,ERROR,0,PASS
+Debt is non-negative,ERROR,0,PASS
+Cash is non-negative,ERROR,0,PASS
+Interest expense is non-negative,ERROR,0,PASS
+Maintenance CAPEX is non-negative,ERROR,0,PASS
+Scheduled principal is non-negative,ERROR,0,PASS
+Emissions intensity is non-negative,ERROR,0,PASS
+EAD is positive,ERROR,0,PASS
+Baseline PD between 0 and 100%,ERROR,0,PASS
+Baseline LGD between 0 and 100%,ERROR,0,PASS
+Assumptions contain 3 rows,ERROR,0,PASS
+Assumption names are unique,ERROR,0,PASS
+Assumptions contain no missing values,ERROR,0,PASS
+Required assumption exists: Cash tax rate on EBITDA,ERROR,0,PASS
+Required assumption exists: PD cap,ERROR,0,PASS
+Required assumption exists: LGD cap,ERROR,0,PASS

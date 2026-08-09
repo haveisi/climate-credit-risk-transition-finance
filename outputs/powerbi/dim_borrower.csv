@@ -1,0 +1,4 @@
+borrower,business_type,baseline_revenue,baseline_ebitda,baseline_debt,baseline_cash,interest_expense,maintenance_capex,scheduled_principal,emissions_intensity,ead,baseline_pd,baseline_lgd
+UpstreamCo,Exploration & Production,5000,1750,3000,400,180,650,300,150,500,0.015,0.45
+IntegratedCo,Integrated Oil & Gas,12000,3000,5500,900,330,1000,450,90,800,0.01,0.4
+ServicesCo,Oilfield Services,3500,700,1800,250,140,220,180,35,300,0.025,0.5

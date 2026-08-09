@@ -1,0 +1,4 @@
+scenario,price_impact,volume_impact,additional_opex_pct,carbon_price,transition_capex_pct,pd_stress_logic,lgd_stress_logic,scenario_purpose,editable
+Current Policies-style,0.0,0.0,0.0,0,0.0,No incremental climate rating stress,No incremental LGD stress,Reference case resembling a low-transition-risk starting point.,Yes
+Accelerated Transition,-0.1,-0.05,0.01,75,0.05,Credit metrics may weaken as revenue/cash flow fall,Add 5 pts LGD if EBITDA falls >20%,Moderate transition shock for training.,Yes
+Severe Transition,-0.25,-0.1,0.03,150,0.1,Stronger rating migration if coverage/leverage deteriorate,Add 10 pts LGD if EBITDA falls >35%,"Severe transition stress for training, directionally inspired by rapid-transition logic.",Yes

@@ -1,0 +1,22 @@
+scenario,metric,excel_value,python_value,difference,status
+Accelerated Transition,practice_ead,1600.0,1600.0,0.0,PASS
+Accelerated Transition,practice_ecl,53.625,53.625,0.0,PASS
+Accelerated Transition,ecl_rate,0.033515625,0.033515625,0.0,PASS
+Accelerated Transition,jpm_disclosed_og_exposure,31724.0,31724.0,0.0,PASS
+Accelerated Transition,naive_scaled_loss,1063.2496875,1063.2496875,0.0,PASS
+Accelerated Transition,avg_dscr,0.5639218153211808,0.5639218153211808,0.0,PASS
+Accelerated Transition,avg_interest_coverage,6.354969223484848,6.354969223484848,0.0,PASS
+Current Policies-style,practice_ead,1600.0,1600.0,0.0,PASS
+Current Policies-style,practice_ecl,10.325,10.325,0.0,PASS
+Current Policies-style,ecl_rate,0.006453125,0.006453125,0.0,PASS
+Current Policies-style,jpm_disclosed_og_exposure,31724.0,31724.0,0.0,PASS
+Current Policies-style,naive_scaled_loss,204.71893749999998,204.7189375,2.842170943040401e-14,PASS
+Current Policies-style,avg_dscr,1.6346153846153848,1.6346153846153848,0.0,PASS
+Current Policies-style,avg_interest_coverage,7.937710437710439,7.937710437710437,-1.7763568394002505e-15,PASS
+Severe Transition,practice_ead,1600.0,1600.0,0.0,PASS
+Severe Transition,practice_ecl,63.125,63.125,0.0,PASS
+Severe Transition,ecl_rate,0.039453125,0.039453125,0.0,PASS
+Severe Transition,jpm_disclosed_og_exposure,31724.0,31724.0,0.0,PASS
+Severe Transition,naive_scaled_loss,1251.6109374999999,1251.6109375,2.2737367544323206e-13,PASS
+Severe Transition,avg_dscr,-0.38964272419204055,-0.3896427241920405,5.551115123125783e-17,PASS
+Severe Transition,avg_interest_coverage,4.475639204545455,4.475639204545455,0.0,PASS

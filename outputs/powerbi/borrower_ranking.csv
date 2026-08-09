@@ -1,0 +1,4 @@
+borrower,business_type,worst_dscr,highest_leverage,max_refined_ecl,max_refined_ecl_rate,worst_ebitda_change,critical_cases,stressed_cases,risk_rank
+ServicesCo,Oilfield Services,0.0484638671875,3.796053940701964,31.500000000000004,0.105,-0.4166875,0,144,1
+UpstreamCo,Exploration & Production,0.0636067708333333,2.631246046805819,26.812500000000004,0.053625,-0.4353571428571429,0,138,2
+IntegratedCo,Integrated Oil & Gas,0.0782756410256411,2.7085909438850617,26.0,0.0325,-0.4339,0,142,3
